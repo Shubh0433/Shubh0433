@@ -3,6 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Full Stack Developer
 -----------------------------
+# My GitHub Profile
+
+Welcome to my GitHub profile! Here is a cool coding GIF:
+
+<img src="https://github.com/Shubh0433/Shubh0433/blob/main/Images_GitHub/VideoGif.gif" alt="Coding GIF" width="50%" height="40%">
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shubh0433@gmail.com](mailto:shubh0433@gmail.com)
