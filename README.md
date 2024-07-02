@@ -7,7 +7,7 @@ Aspiring Full Stack Developer
 
 Welcome to my GitHub profile! Here is a cool coding GIF:
 
-<img src="https://github.com/Shubh0433/Shubh0433/blob/main/Images_GitHub/VideoGif.gif" alt="Coding GIF" width="50%" height="40%">
+<img src="https://github.com/Shubh0433/Shubh0433/blob/main/Images_GitHub/VideoGif.gif" alt="Coding GIF" width="100%" height="50%">
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shubh0433@gmail.com](mailto:shubh0433@gmail.com)
