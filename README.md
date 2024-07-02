@@ -5,7 +5,7 @@ Aspiring Full Stack Developer
 -----------------------------
 # My GitHub Profile
 
-Welcome to my GitHub profile! Here is a cool coding GIF:
+Welcome to my GitHub profile!
 
 <img src="https://github.com/Shubh0433/Shubh0433/blob/main/Images_GitHub/VideoGif.gif" alt="Coding GIF" width="100%" height="50%">
 
